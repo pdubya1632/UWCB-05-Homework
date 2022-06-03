@@ -1,4 +1,4 @@
-# UWCB-05-Homework
+# Work Day Scheduler
 UW Coding Bootcamp : Homework 05
 
 ## Description
